@@ -1,7 +1,7 @@
 ﻿
 namespace ClientReservasi_20190140104
 {
-    partial class Form1
+    partial class Reservasi
     {
         /// <summary>
         /// Required designer variable.

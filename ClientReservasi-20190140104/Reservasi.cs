@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace ClientReservasi_20190140104
 {
-    public partial class Form1 : Form
+    public partial class Reservasi : Form
     {
         ServiceReference1.Service1Client service = new ServiceReference1.Service1Client();
-        public Form1()
+        public Reservasi()
         {
             InitializeComponent();
 
